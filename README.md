@@ -1,6 +1,5 @@
-# My Own Brain Matter
-
-A simulation of 
+# CSP - FINAL - Proposal 
+A simulation of  
 
 ## Summary
 
@@ -16,20 +15,14 @@ The most time-consuming part will be the algorithmic drawing of the lines around
 
 ## Timeline
 
-- Week 1: Write the proposal
-
-- Week 2: Real life research, aka, go out and perform the many decisions in the day of Dina, begin the webpage design and begin writing the pages.
-
-- Week 3: Finish writing the different pages for the day in the life scenarios and begin creating the storage of the information.
-
-- Week 4: Complete the storage of the information and work on the tally and page at the end with the tips and tools for environmental change. 
-
-- Week 5: Present!
+- Week : Write the proposal and begin working on the canvas with the different shapes.
+- Week :
 
 ## References and link
+Red blob games - https://www.redblobgames.com/ - a website of different games/programs
 
-Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
+Voronoi Diagrams - In mathematics, a Voronoi diagram is a partition of a plane into regions close to each of a given set of objects. In the simplest case, these objects are just finitely many points in the plane (called seeds, sites, or generators).
 
-https://docs.gamesparks.com/tutorials/cloud-code-and-the-test-harness/storing-custom-player-data.html 
+Perlin Noise - https://www.youtube.com/watch?v=8ZEMLCnn8v0 - Perlin Noise is an extremely powerful algorithm that is used often in procedural content generation. It is especially useful for games and other visual media such as movies.
 
-Looking at games such as Sims and BitLife to understand the cause and effect of decision making. 
+Random Walk - https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/random-walk/ - is an algorithm that provides random paths in a graph. A random walk means that we start at one node, choose a neighbor to navigate to at random or based on a provided probability distribution, and then do the same from that node, keeping the resulting path in a list. It’s similar to how a drunk person traverses a city.
