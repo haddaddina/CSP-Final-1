@@ -1,9 +1,9 @@
 # CSP - FINAL - Proposal 
-A simulation of  
+A simulation of rendered drawings forming in an algorithmic pattern across a canvas around certain anchor points.   
 
 ## Summary
 
-The main goal of this project, is to create a canvas with a self drawing...
+The main goal of this project, is to create a canvas with a self drawing shapes around certain points of anchor. 
 
 ## Component Parts
 
@@ -11,12 +11,21 @@ This project will be based in react and will be on a platform on a website that 
 
 ## Challenges
 
-The most time-consuming part will be the algorithmic drawing of the lines around the center main circle points. 
+The most time-consuming part will be the algorithmic drawing of the lines around the center main anchor points 
 
 ## Timeline
-
-- Week : Write the proposal and begin working on the canvas with the different shapes.
-- Week :
+- Week 3 Feb 6th : Proposal Due
+- Week 4 Have canvas drawn with anchor points
+- Week 5 Begin working on algorithmic drawings by researching different methods and previous projects that have used the same concept.
+- Week 6 Have somewhat of a visual on how it will look like with code. Have some code written for presentation purposes
+- Week 7 Mar 5th : Proof of Concept -- exploration & research finished 
+- Week 8 Most likely its not working or the code needs advancment.
+- Week 9 Im stuck, so asking JD for help with every bit of this project.
+- Week 10 OH MAN the working prototype is due next week. "J.D" I need your help the code isnt doing its job properly
+- Week 11 Apr 2nd : Working Prototype
+- Week 12 Recieve feedback and change code/visual.
+- Week 13 Jesus my show is due next week and the final are in the same week IM STRESSED
+- Week 14 Apr 23rd : Final Critique & Feedback Session	
 
 ## References and link
 Red blob games - https://www.redblobgames.com/ - a website of different games/programs
